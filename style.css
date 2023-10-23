@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&display=swap");
 
-/* colors */
+
 
 :root {
   --prim-orange: hsl(31, 77%, 52%);
@@ -15,7 +15,7 @@
   --black: #000;
 }
 
-/* box sizing */
+
 
 * {
   padding: 0;
@@ -34,7 +34,7 @@ body {
   color: var(--neu-white);
 }
 
-/* style cards */
+
 
 main {
   display: flex;
@@ -123,7 +123,7 @@ button:active {
   transform: scale(0.9);
 }
 
-/* style footer */
+
 
 .attribution {
   width: 100%;
@@ -145,7 +145,7 @@ button:active {
   color: var(--black);
 }
 
-/* style tablet and mobile */
+
 
 @media only screen and (max-width: 844px) {
   body {
